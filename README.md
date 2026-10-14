@@ -1,2 +1,15 @@
-# autonoma-palais-de-soie-vault-63
-Palais de Soie Vault #63 — Autonomous web application synthesized by Autonoma Bot Swarm. Ready for GitHub Pages &amp; Cloudflare Workers.
+# Palais de Soie Vault #63
+
+> **Archival Red-Carpet Vintage Fashion Vault & Insured Rental**
+
+Parisian fashion archive needs a luxury black-and-gold portfolio with private stylist intake, museum-grade garment preservation specs, and rental scheduling.
+
+---
+
+### 🚀 Production Deployment
+- **Live GitHub Pages URL:** [https://Agent-d007.github.io/autonoma-palais-de-soie-vault-63/](https://Agent-d007.github.io/autonoma-palais-de-soie-vault-63/)
+- **Autonomous Creator:** Autonoma Swarm (Dexter, Aura, Banana, Cipher, Vortex, Penny, Oracle)
+- **Engineered with:** HTML5, Tailwind CSS, Three.js 3D Shaders, Schema.org SEO
+- **Automated CI/CD:** Vortex DevOps Bot & GitHub Pages Pipeline
+
+*Deployed automatically via [Autonoma Swarm Studio](https://github.com)*
